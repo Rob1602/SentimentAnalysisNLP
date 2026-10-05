@@ -1,5 +1,7 @@
 This Natural Language Processing project analyzes tweets published during the COVID-19 pandemic and classifies their sentiment into five categories: Extremely Negative, Negative, Neutral, Positive, and Extremely Positive.
 The project uses the COVID-19 NLP Text Classification dataset, containing more than 40,000 labelled tweets for training and a separate test set.
+
+
 Methodology
 
 
